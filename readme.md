@@ -18,7 +18,7 @@ Make you easy to practice typescript in docker. Please install docker before sta
 
 - write some code to main.ts
   
-  ```bash
+  ```javascript
   console.log('Bibby is a handsome body.');
   ```
 
