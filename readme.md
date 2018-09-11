@@ -1,4 +1,4 @@
-# Typescript Workspace in Docker
+# Typescript Workspace in Docker
 
 Make you easy to practice typescript in docker. Please install docker before starting.
 
