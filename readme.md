@@ -28,7 +28,7 @@ Make you easy to practice typescript in docker. Please install docker before sta
   $ ./node_modules/ts-node/dist/bin.js main.ts
   ```
 
-## typescript reference
+## typescript references
 
 - https://hackmd.io/s/rkITEOYX
 - https://www.typescriptlang.org/docs/home.html
