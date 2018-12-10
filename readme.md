@@ -4,7 +4,13 @@
 
 Make you easy to practice typescript in docker. Please install docker before starting.
 
-## how to use
+## Preparation
+
+- install docker
+
+  https://docs.docker.com/install/#supported-platforms
+
+## How To Use
 
 - make your workspace up
 
@@ -30,7 +36,7 @@ Make you easy to practice typescript in docker. Please install docker before sta
   npm start
   ```
 
-## typescript references
+## Typescript References
 
 - https://hackmd.io/s/rkITEOYX
 - https://www.typescriptlang.org/docs/home.html
