@@ -27,7 +27,7 @@ Make you easy to practice typescript in docker. Please install docker before sta
 - execute it
 
   ```bash
-  $ ./node_modules/ts-node/dist/bin.js main.ts
+  npm start
   ```
 
 ## typescript references
